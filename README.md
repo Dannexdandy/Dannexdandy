@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dannexdandy
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning to improve as a Data scientist
 - 💞️ I’m looking to collaborate on any Data Science related projects
 - 📫 How to reach me on twitter @dannexdandy
